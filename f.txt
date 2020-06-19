@@ -1,1 +1,1 @@
-
+This is how pull command overwrite of the same file in localrepo.
